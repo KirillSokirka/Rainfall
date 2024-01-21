@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rainfall.API", "Rainfall.API\Rainfall.API.csproj", "{FE4EDB78-598A-471E-B938-2DE63A167E3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rainfall.Application", "Rainfall.Application\Rainfall.Application.csproj", "{A6BDB18C-6DAB-41C5-A13D-E4F720BB5A7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE4EDB78-598A-471E-B938-2DE63A167E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4EDB78-598A-471E-B938-2DE63A167E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4EDB78-598A-471E-B938-2DE63A167E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4EDB78-598A-471E-B938-2DE63A167E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6BDB18C-6DAB-41C5-A13D-E4F720BB5A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BDB18C-6DAB-41C5-A13D-E4F720BB5A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BDB18C-6DAB-41C5-A13D-E4F720BB5A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BDB18C-6DAB-41C5-A13D-E4F720BB5A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
